@@ -8,6 +8,8 @@ package programmers.level1;
  * 
  * <제한 사항>
  * n은 1이상, 50000000000000 이하인 양의 정수입니다.
+ * 
+ * https://school.programmers.co.kr/learn/courses/30/lessons/12934
  */
 public class Soluation_12934 {
 	public static void main(String[] args) {
